@@ -28,4 +28,4 @@ Following keys are used to control the player:
 4. D: Move Right
 5. Space: Shoot
 
-Player dies if hit by enemy bullets or touch the maze walls. The score is incremented by 10 points every time the player shoots the enemy.
+Player dies if hit by enemy bullets or when it touches the maze walls. The score is incremented by 10 points every time the player shoots the enemy.
