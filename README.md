@@ -21,7 +21,7 @@ This will serve files from the current directory at localhost under port 8000, i
 http://localhost:8000/
 
 ## Instructions for playing the game
-Following keys are used to control the player character:
+Following keys are used to control the player:
 1. W: Move Up
 2. S: Move Down
 3. A: Move Left
